@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>fire.png</file>
+        <file>green.png</file>
+        <file>blue.png</file>
+        <file>yellow.png</file>
+        <file>alpha.png</file>
+        <file>beta.png</file>
+        <file>bomb.png</file>
+        <file>star.png</file>
+        <file>win.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>fire.png</file>
+        <file>green.png</file>
+        <file>blue.png</file>
+        <file>yellow.png</file>
+        <file>alpha.png</file>
+        <file>beta.png</file>
+        <file>bomb.png</file>
+        <file>star.png</file>
+        <file>win.png</file>
+        <file>border.png</file>
+    </qresource>
+</RCC>
